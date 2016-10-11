@@ -7,6 +7,10 @@ h1 {
 
 }
 
+h2{
+text-align: center;
+}
+
 h3 {
   background: #5CD44E;
   width: 9%;
@@ -54,6 +58,6 @@ h4 {
   background: #fff;
   width: 7%;
   border-radius: 9px;
-  
+
 
 }
