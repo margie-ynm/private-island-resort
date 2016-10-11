@@ -1,0 +1,41 @@
+html {
+  background: #ccc;
+}
+
+h1 {
+  background: #8DBA8C;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+  border: 5px solid #A4E0E0;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+  background: #fff;
+  border-radius: 12px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000;
+}
+
+nav li:hover, nav a:hover {
+  background: #000;
+  color: #fff;
+}
+
+p {
+  background: #fff;
+  border: 3px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border: 5px solid #fff;
+  border-radius: 6px;
+}
