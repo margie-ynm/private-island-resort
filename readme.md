@@ -1,8 +1,8 @@
-# _{Application Name}_
+# Camano Private Island Resort
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Camano resort information, 11 Oct 2016_
 
-#### By _**{List of contributors}**_
+#### By _** Jim Padilla and Margie Nevarez **_
 
 ## Description
 
